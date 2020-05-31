@@ -1,6 +1,6 @@
 # Submission123
 
-This library contains (a) demo video, (b) app-release and (c) source code.
+This library contains (a) demo video, (b) app-release.
 
 
 ## Demo Video
